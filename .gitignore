@@ -1,0 +1,12 @@
+# Fotos descargadas de la web vieja (se bajan aparte)
+fotos-motos/
+
+# Python / Django
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.sqlite3
+media/
+staticfiles/
+.env
